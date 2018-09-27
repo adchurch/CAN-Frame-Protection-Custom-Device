@@ -20,7 +20,6 @@ build_spec = 'Engine Release'
 
 [package]
 type = 'nipkg'
-name = 'protection-addon-{veristand_version}'
 dev_xml_path = 'Source\Custom Device Protection and Rolling Counter Addon.xml'
 nipkg_staging_paths = { 'Built' = 'documents\National Instruments\NI VeriStand {veristand_version}' }
 
